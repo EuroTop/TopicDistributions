@@ -1,16 +1,17 @@
 # TopicDistributions
-Distribution of topics in the debates of the European Parliament and in the legislative documents of the European Union
+Distribution of topics in the plenary debates of the European Parliament and in the legislative documents of the European Union
 
 This repository contains data on the topics discussed in the Europan Parliament, and represented in the legislative documents of the European Union, between 1999 and 2017.
 
 The raw data of the discussions in the European Parliament was taken from the "Talk of Europe" project (www.talkofeurope.eu). It is available here:
+
 https://easy.dans.knaw.nl/ui/datasets/id/easy-dataset:76464
 
 The legislative documents of the European Union were downloaded from the EUR-lex website:
 
 https://eur-lex.europa.eu/
 
-Only documents of categories 'D' (decisions), 'L' (directives) and 'R' (regulations) were downloaded. Each document is uniquely identifiable by a CELEC-number, consisting of "3" + year + category + document_id, e.g. 31999D0001 fof the first decision of the year 1999.
+Only documents of categories 'D' (decisions), 'L' (directives) and 'R' (regulations) were downloaded (cf. https://eur-lex.europa.eu/content/tools/TableOfSectors/types_of_documents_in_eurlex.html). Each document is uniquely identifiable by a CELEX-number, consisting of "3" + year + category + document_id, e.g. 31999D0001 for the first decision of the year 1999.
 
 The data was preprocessed (e.g. removing punctuation and stopwords) using the Python Natural Language Toolkit:
 
