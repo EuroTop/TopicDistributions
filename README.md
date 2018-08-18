@@ -29,4 +29,4 @@ This repository contains the following data:
 - The topic probabilities for all documents in the dataset; contributions to the plenary debate in the European Parliament are identified in the following format: "lp_eu:" + year-month-day-"Speech"-debate_id-speech_id, e.g. "lp_eu:1999-07-20-Speech-2-001" for the first speech of the second debate on 20 July, 1999. The EUR-lex documents are identified by their CELEX-number (tar-archive). --> archive 'topic_probabilities.tar.gz'
 - For selected topics, the propotion of text per topic for 6-months periods, starting Dezember 1998 -- May 1999 (period 1) and ending June 2017 -- November 2017 (period 40) (tsv-files within zip-file. --> folder 'topic_proportions_per_period'
 
-More data can be provided upon request (gast@zedat.fu-berlin.de)
+More data can be provided upon request (volker.gast@uni-jena.de, stephanie.gast_zepeda@kcl.ac.uk)
