@@ -1,4 +1,4 @@
-id	period	Economy/emplyoment	Climate_change	Renewable_energy	Environment/climate	Terrorism	Education	Employment	Immigration	Research	Pensions	Taxes	Euro	Immigration/asylum	Terrorism/names
+id	period	Economy/employment	Climate_change	Renewable_energy	Environment/climate	Terrorism	Education	Employment	Immigration	Research	Pensions	Taxes	Euro	Immigration/asylum	Terrorism/names
 0	html_no	6	8	28	31	39	42	51	53	65	72	88	101	112	117
 1	topic_no	16	31	41	85	123	115	80	88	91	42	11	144	5	93
 2	3	0.734	0.536	0.253	2.303	0.094	0.189	0.182	0.144	1.336	0.304	0.407	1.919	0.166	2.376
